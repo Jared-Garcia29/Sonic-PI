@@ -4,7 +4,6 @@ use_bpm 160
 
 sample "C:/Users/notic/Downloads/music/true.wav"
 
-e = 3
 
 sleep 17
 
